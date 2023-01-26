@@ -16,3 +16,7 @@ With Tableau, I utilized calculated fields, parameters, actions, etc. to create 
 + Which products should be added and why?
 - What is the performance by region?
 * Is the company growing versus the previous year?
+
+Link to the dashboard on Tableau public: 
+
+https://public.tableau.com/app/profile/folasade.ojo/viz/FolasadeOjo-RWFD-CoffeeCupCompanyPerformance/Overview
