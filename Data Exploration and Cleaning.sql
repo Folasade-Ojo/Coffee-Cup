@@ -92,6 +92,8 @@ WHERE city NOT IN
 	(SELECT cities 
 	 FROM city_check)
 
+-- Gatineau, Fredericton, and Steinbach were wrongly spelt
+
 UPDATE new_coffee_table
 SET city = 'Gatineau'
 WHERE city = 'Gatieau';
