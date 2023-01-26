@@ -53,8 +53,6 @@ ALTER COLUMN date TYPE date USING to_date (date, 'YYYY/MM/DD');
 Consequently, a new table will be created with newly calculated fields viz., 'net_profit', 'gross_profit'
 */
 
-DROP TABLE new_coffee_table;
-
 CREATE TABLE new_coffee_table AS
 (SELECT sales, cost_of_goods_sold,total_expenses, marketing, inventory, budget_profit, budget_margin,budget_sales, budget_COGS, date, 
 	TRIM(market) AS region, TRIM(province) AS province, TRIM(city) AS city, store_number, TRIM(market_size) AS market_size, 
@@ -71,6 +69,11 @@ SET net_profit = sales - cost_of_goods_sold, gross_profit = sales - (cost_of_goo
 SELECT * FROM new_coffee_table
 LIMIT 25;
 
+/*To verify the spelling of the cities
+
+A table containing the list of cities and their corresponding provinces
+This was obtained from wikipedia */
+
 CREATE TABLE city_check (
 	cities text,
 	province_name text)
@@ -78,20 +81,7 @@ CREATE TABLE city_check (
 copy city_check
 from 'C:\Program Files\PostgreSQL\14\bin\city check.csv' with delimiter ',' csv header encoding 'windows-1251';
 
-/*
-SELECT * FROM city_check
-WHERE cities LIKE  'Mount%';
 
-UPDATE city_check
-SET cities = 'Montreal'
-WHERE cities = 'Montrйal';
-
-UPDATE city_check
-SET cities = 'Mount Pearl'
-WHERE cities = 'Mount Pearl Park';
-*/
-
--- verify the spelling of the cities
 SELECT DISTINCT (city)
 FROM new_coffee_table
 WHERE city NOT IN
