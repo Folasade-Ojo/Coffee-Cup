@@ -12,10 +12,10 @@ The dataset underwent a thorough profiling process to ensure accuracy, completen
 With Tableau, I utilized calculated fields, parameters, actions, etc. to create visuals which answer below questions:
 
 - Which store is the most profitable store (net profit)?
-* Which products should be dropped and why?
-+ Which products should be added and why?
++ Which products should be added?
 - What is the performance by region?
 * Is the company growing versus the previous year?
+* What are the information on top 20 stores?
 
 Link to the dashboard on Tableau public: 
 
