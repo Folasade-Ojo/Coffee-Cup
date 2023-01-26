@@ -7,7 +7,7 @@ According to the dataset, the coffee cup company has 102 stores in different cit
 The objective of this project is to provide insightful answers to key business questions through the use of interactive Tableau dashboards. Additionally, the project aims to develop a strategy map that aligns with the company's vision and mission statement.
 
 ## Analysis
-The dataset underwent a thorough profiling process to ensure accuracy, completeness, and uniformity. Despite initial visual inspection indicating a clean dataset, further analysis utilizing techniques such as comparison and matching with publicly available information, identification of spelling errors, and consistency checks between records across different columns revealed the presence of errors. To rectify these errors, data cleaning was performed utilizing PostgreSQL due to its user-friendly and straightforward functionality.
+The dataset underwent a thorough profiling process to ensure accuracy, completeness, and uniformity. Despite initial visual inspection indicating a clean dataset, further analysis utilizing techniques such as comparison and matching with publicly available information, identification of spelling errors, and consistency checks between records across different columns revealed the presence of errors. To rectify these errors, data cleaning was performed utilizing PostgreSQL due to its user-friendly and straightforward functionality. The resulting table was downloaded as a text file and connected to Tableau.
 
 With Tableau, I utilized calculated fields, parameters, actions, etc. to create visuals which answer below questions:
 
