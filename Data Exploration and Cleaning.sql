@@ -43,7 +43,8 @@ DELETE FROM coffee
 WHERE NOT (coffee IS NOT NULL);
 
 -- check the count
-SELECT COUNT(*) FROM coffee;
+SELECT COUNT(*) 
+FROM coffee;
 -- 4248
 
 --convert the date format from UK to Canadian format
