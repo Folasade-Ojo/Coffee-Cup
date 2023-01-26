@@ -24,15 +24,18 @@ CREATE TABLE coffee (
 COPY coffee
 	FROM 'C:/PROGRA~1/POSTGR~1/14/bin/COFFEE~1.CSV' DELIMITER ',' CSV QUOTE '"' ESCAPE '''' HEADER;
 
-SELECT * FROM coffee
+SELECT * 
+FROM coffee
 LIMIT 25;
 
 -- check the count
-SELECT COUNT(*) FROM coffee;
+SELECT COUNT(*) 
+FROM coffee;
 -- 4250
 
 -- check for records that have null records all through
-SELECT * FROM coffee
+SELECT * 
+FROM coffee
 WHERE coffee IS NULL;
 
 -- delete those null records
@@ -78,8 +81,8 @@ CREATE TABLE city_check (
 	cities text,
 	province_name text)
 ;
-copy city_check
-from 'C:\Program Files\PostgreSQL\14\bin\city check.csv' with delimiter ',' csv header encoding 'windows-1251';
+COPY city_check
+FROM 'C:\Program Files\PostgreSQL\14\bin\city check.csv' with delimiter ',' csv header encoding 'windows-1251';
 
 
 SELECT DISTINCT (city)
@@ -100,4 +103,6 @@ UPDATE new_coffee_table
 SET city = 'Steinbach'
 WHERE city = 'Steinback';
 
-SELECT * FROM new_coffee_table;
+SELECT * 
+FROM new_coffee_table;
+-- download the output as a CSV
