@@ -22,7 +22,7 @@ With Tableau, I utilized calculated fields, parameters, actions, etc. to create 
 + Which products should be added?
 - What is the performance by region?
 * Is the company growing versus the previous year?
-* What are the information on top 20 stores?
+* Basic information on the top 20 stores
 
 Link to the dashboard on Tableau public: 
 
