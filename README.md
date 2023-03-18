@@ -31,6 +31,10 @@ Link to the dashboard on Tableau public:
 
 https://public.tableau.com/app/profile/folasade.ojo/viz/FolasadeOjo-RWFD-CoffeeCupCompanyPerformance/Overview
 
+![image](https://user-images.githubusercontent.com/121362860/226085320-749b6eff-03ac-4bd5-8909-46c6b88e391f.png)
+![image](https://user-images.githubusercontent.com/121362860/226085326-df58a162-38f3-420c-93d2-f499bac5f17e.png)
+![image](https://user-images.githubusercontent.com/121362860/226085329-2a4a02c3-f286-4ca5-a139-e5c257434ce1.png)
+
 ## Findings and Recommendations
 
 Overall, the company performed poorly in 2019 versus 2018 across all metrics, including **sales**, **net profit**, **gross profit**, **inventory**, etc. However, some stores performed better in 2019 as shown in the dashboard. To drive profits I recommend the following:
