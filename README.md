@@ -8,7 +8,7 @@ According to the dataset, the coffee cup company has 102 stores in different cit
 The objective of this project is to provide  answers to key business questions through the use of interactive **Tableau** dashboards. Additionally, the project aims to develop a strategy map that aligns with the company's mission statement.
 
 ## About *The Coffee Cup* Company 
-This hypothetical company deals in 12 different products and have multiple stores across Canada. Their mission statement is :***“To provide the world’s ultimate coffee shop experience with the highest-quality products, most: to have inviting stores, friendliest staff and best value.”***
+This hypothetical company specializes in 13 different products and operates 102 retail locations throughout Canada. Their mission statement is :***“To provide the world’s ultimate coffee shop experience with the highest-quality products, most: to have inviting stores, friendliest staff and best value.”***
 
 ![image](https://user-images.githubusercontent.com/121362860/226084259-acf44753-6672-4091-a8a4-ebe96118b01d.png)
 
@@ -33,7 +33,7 @@ https://public.tableau.com/app/profile/folasade.ojo/viz/FolasadeOjo-RWFD-CoffeeC
 
 ## Findings and Recommendations
 
-Overall, the company performed poorly in 2019 versus 2018 across all metrics, including **sales**, **net profit**, **gross profit**, **inventory**, etc. However, some stores performed better in 2019 as shown in the dashboard. To drive sales I recommend the following:
+Overall, the company performed poorly in 2019 versus 2018 across all metrics, including **sales**, **net profit**, **gross profit**, **inventory**, etc. However, some stores performed better in 2019 as shown in the dashboard. To drive profits I recommend the following:
 * Expand the menu by incorporating additional products, such as donuts, bagels, and cakes.
 + According to the analysis, *Green tea* and *Caffe Mocha* should be dropped as they result in negative profits despite the expenses incurred in advertising and buying inventory.
 - Precedence should be given to the *Central region* and the *West* in terms of investment.
