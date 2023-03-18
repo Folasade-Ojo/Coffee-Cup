@@ -17,7 +17,7 @@ This hypothetical company specializes in 13 different products and operates 102 
 ## Analysis
 The dataset underwent a profiling process to ensure accuracy, completeness, and uniformity. Despite initial visual inspection indicating a clean dataset, further analysis utilizing techniques such as comparison and matching with publicly available information, identification of spelling errors, and consistency checks between records across different columns revealed the presence of errors. 
 
-To rectify these errors, data cleaning was performed utilizing **PostgreSQL** due to its user-friendly and straightforward functionality. The resulting table was downloaded as a text file and connected to Tableau.
+To rectify these errors, data cleaning was performed utilizing **PostgreSQL** due to its user-friendly and straightforward functionality (*see https://github.com/Folasade-Ojo/Coffee-Cup/blob/main/Data%20Exploration%20and%20Cleaning.sql*). The resulting table was downloaded as a text file and connected to Tableau.
 
 With Tableau, I utilized calculated fields, parameters, actions, etc. to create visuals which answer below questions:
 
