@@ -33,4 +33,4 @@ https://public.tableau.com/app/profile/folasade.ojo/viz/FolasadeOjo-RWFD-CoffeeC
 Overall, the company performed poorly in 2019 versus 2018 across all metrics, including **sales**, **net profit**, **gross profit**, **inventory**, etc. To drive sales I recommend the following:
 * Expand the menu by incorporating additional products, such as donuts, bagels, and cakes.
 + According to the analysis, *Green tea* and *Caffe Mocha* should be dropped as they result in negative profits despite the expenses incurred in advertising and buying inventory.
-- •	Precedence should be given to the *Central region* and the *West* in terms of investment.
+- Precedence should be given to the *Central region* and the *West* in terms of investment.
