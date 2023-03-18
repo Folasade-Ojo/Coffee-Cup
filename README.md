@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/121362860/226084362-675b2a76-c7f2-41fa-9395-ce6d1411a752.png)
 ## Dataset
 The dataset employed for this project comprises 4250 records, each with 20 distinct attributes. These attributes include both numerical and categorical data. The dataset encompasses performance metrics accumulated by the coffee cup company from 2018 to 2019, among other performance metrics.
 
@@ -6,10 +7,11 @@ According to the dataset, the coffee cup company has 102 stores in different cit
 ## Objective
 The objective of this project is to provide  answers to key business questions through the use of interactive **Tableau** dashboards. Additionally, the project aims to develop a strategy map that aligns with the company's mission statement.
 
-## About *The Coffee Cup* Company
+## About *The Coffee Cup* Company 
 This company deals in 12 different products and have multiple stores across Canada. Their mission statement is :***“To provide the world’s ultimate coffee shop experience with the highest-quality products, most: to have inviting stores, friendliest staff and best value.”***
 
-![image](https://user-images.githubusercontent.com/121362860/226056639-0077fdb7-686e-49cb-ab84-7ec6e10baaaa.png)
+![image](https://user-images.githubusercontent.com/121362860/226084259-acf44753-6672-4091-a8a4-ebe96118b01d.png)
+
 **Figure 1: Strategy Map**
 
 ## Analysis
