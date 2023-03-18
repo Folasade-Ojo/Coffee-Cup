@@ -9,8 +9,9 @@ The objective of this project is to provide  answers to key business questions t
 ## About *The Coffee Cup* Company
 This company deals in 12 different products and have multiple stores across Canada. Their mission statement is :***“To provide the world’s ultimate coffee shop experience with the highest-quality products, most: to have inviting stores, friendliest staff and best value.”***
 
-**Strategy Map**
 ![image](https://user-images.githubusercontent.com/121362860/226056639-0077fdb7-686e-49cb-ab84-7ec6e10baaaa.png)
+**Figure 1: Strategy Map**
+
 ## Analysis
 The dataset underwent a profiling process to ensure accuracy, completeness, and uniformity. Despite initial visual inspection indicating a clean dataset, further analysis utilizing techniques such as comparison and matching with publicly available information, identification of spelling errors, and consistency checks between records across different columns revealed the presence of errors. 
 
