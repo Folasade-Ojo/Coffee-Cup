@@ -27,10 +27,11 @@ With Tableau, I utilized calculated fields, parameters, actions, etc. to create 
 * Is the company growing versus the previous year?
 * Basic information on the top 20 stores
 
-Link to the dashboard on Tableau public: 
+Link to the interactive dashboard on Tableau public: 
 
 https://public.tableau.com/app/profile/folasade.ojo/viz/FolasadeOjo-RWFD-CoffeeCupCompanyPerformance/Overview
 
+*Snapshots*
 ![image](https://user-images.githubusercontent.com/121362860/226085320-749b6eff-03ac-4bd5-8909-46c6b88e391f.png)
 ![image](https://user-images.githubusercontent.com/121362860/226085326-df58a162-38f3-420c-93d2-f499bac5f17e.png)
 ![image](https://user-images.githubusercontent.com/121362860/226085329-2a4a02c3-f286-4ca5-a139-e5c257434ce1.png)
