@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/121362860/226147183-cc4ccf18-6bac-4c72-9854-d646c6fb2095.png)
+![image](https://user-images.githubusercontent.com/121362860/226147682-777e2a0a-d3c5-4fd1-87d7-806474c90ca4.png)
 
 ## Dataset
 The dataset employed for this project comprises 4250 records, each with 20 distinct attributes. These attributes include both numerical and categorical data. The dataset encompasses performance metrics accumulated by the coffee cup company from 2018 to 2019, among other performance metrics.
@@ -33,9 +33,9 @@ Link to the interactive dashboard on Tableau public:
 https://public.tableau.com/app/profile/folasade.ojo/viz/FolasadeOjo-RWFD-CoffeeCupCompanyPerformance/Overview
 
 *Snapshots*
-![image](https://user-images.githubusercontent.com/121362860/226085320-749b6eff-03ac-4bd5-8909-46c6b88e391f.png)
-![image](https://user-images.githubusercontent.com/121362860/226085326-df58a162-38f3-420c-93d2-f499bac5f17e.png)
-![image](https://user-images.githubusercontent.com/121362860/226085329-2a4a02c3-f286-4ca5-a139-e5c257434ce1.png)
+![image](https://user-images.githubusercontent.com/121362860/226147738-6f1ef198-b57c-4a75-add5-e59e4df10508.png)
+![image](https://user-images.githubusercontent.com/121362860/226147730-c2b8d407-4cf6-4df8-891e-adcbdd2df930.png)
+![image](https://user-images.githubusercontent.com/121362860/226147735-585ff4be-9bbf-4835-8da1-84ba46604eae.png)
 
 ## Findings and Recommendations
 
