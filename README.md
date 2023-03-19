@@ -11,7 +11,8 @@ The objective of this project is to provide  answers to key business questions t
 ## About *The Coffee Cup* Company 
 This hypothetical company specializes in 13 different products and operates 102 retail locations throughout Canada. Their mission statement is :***“To provide the world’s ultimate coffee shop experience with the highest-quality products, most: to have inviting stores, friendliest staff and best value.”***
 
-*I developed the below Strategy Map to align with the company's mission statement*
+*Based on the information provided, I prepared below **Strategy Map** and ensured that it is in line with the company's mission statement.*
+
 ![image](https://user-images.githubusercontent.com/121362860/226084259-acf44753-6672-4091-a8a4-ebe96118b01d.png)
 
 ## Analysis
