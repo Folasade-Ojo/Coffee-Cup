@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/121362860/226084362-675b2a76-c7f2-41fa-9395-ce6d1411a752.png)
+![image](https://user-images.githubusercontent.com/121362860/226147183-cc4ccf18-6bac-4c72-9854-d646c6fb2095.png)
+
 ## Dataset
 The dataset employed for this project comprises 4250 records, each with 20 distinct attributes. These attributes include both numerical and categorical data. The dataset encompasses performance metrics accumulated by the coffee cup company from 2018 to 2019, among other performance metrics.
 
