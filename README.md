@@ -30,7 +30,7 @@ With Tableau, I utilized calculated fields, parameters, actions, etc. to create 
 
 Link to the interactive dashboard on Tableau public: 
 
-https://public.tableau.com/app/profile/folasade.ojo/viz/FolasadeOjo-RWFD-CoffeeCupCompanyPerformance/Overview
+https://public.tableau.com/app/profile/folasade.ojo/viz/FolasadeOjo-RWFDCoffeeCupCompanyPerformance/Overview
 
 *Snapshots*
 ![image](https://user-images.githubusercontent.com/121362860/226147738-6f1ef198-b57c-4a75-add5-e59e4df10508.png)
