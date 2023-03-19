@@ -37,6 +37,6 @@ Link to the interactive dashboard on Tableau public [here](https://public.tablea
 
 ## Findings and Recommendations
 
-Overall, the company performed poorly in 2019 versus 2018 across all metrics, including **sales**, **net profit**, **gross profit**, **inventory**, etc. However, some stores performed better in 2019 as shown in the dashboard. Unlike *sales*, *net profit* is a better metric to determine the products to drop or add to stores.To drive profits I recommend the following:
+Overall, the company performed poorly in 2019 versus 2018 across all metrics, including **sales**, **net profit**, **gross profit**, **inventory**, etc. However, some stores performed better in 2019 as shown in the dashboard. Unlike **sales**, **net profit** is a better metric to determine the products to drop or add to stores.To drive profits I recommend the following:
 * Expand the menu by incorporating additional products, such as donuts, bagels, and cakes.
 + According to the analysis, *Green tea* and *Caffe Mocha* should be dropped as they result in negative profits despite the expenses incurred in advertising and buying inventory.
