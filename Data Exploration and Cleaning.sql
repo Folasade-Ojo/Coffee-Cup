@@ -76,7 +76,7 @@ LIMIT 25;
 /*To verify the spelling of the cities
 
 A table containing the list of cities and their corresponding provinces
-This was obtained from wikipedia */
+This was scrapped from wikipedia */
 
 CREATE TABLE city_check (
 	cities text,
